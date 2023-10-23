@@ -8,6 +8,7 @@ Herramientas para el curso de mecánica de sólidos de la Universidad EAFIT.
 1. [Comparación de modelos cargados axialmente](./notebooks/uniaxial_load_comparison.ipynb)
 1. [Viga empotrada con carga puntual en el extremo libre](./notebooks/beam_analytic_sol.ipynb)
 1. [Viga uniformemente cargada](./notebooks/beam_analytic_uniform_load.ipynb)
+1. [Solución de estructura simple - MEF](./notebooks/simple_truss.ipynb)
 
 ## Licencia
 
