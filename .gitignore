@@ -134,3 +134,4 @@ dmypy.json
 notebooks/mesh*
 *.sqlite
 %Google_Drive%Dev%GitHub%EAFIT_solid_mechanics
+notebooks/simple_truss_ORIGINAL.ipynb
